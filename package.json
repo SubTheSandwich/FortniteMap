@@ -92,7 +92,10 @@
   },
   "nodemonConfig": {
     "ignore": [
-      "data/**/*.json"
+      "data/**/*.json",
+      "staff/*.json",
+      "ladders/**/*.json",
+      "notifications/**/*.json"
     ]
   },
   "author": "Sub",
